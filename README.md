@@ -12,10 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jone's%20Github&fontSize=90)
-<div align="center">dd</div>
-
 ![Jone's github stats](https://github-readme-stats.vercel.app/api?username=Jone4865&show_icons=true&count_private=true&bg_color=30,96a5e2b7,e29696b7&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jone4865&layout=compact&bg_color=30,96a5e2b7,e29696b7&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
