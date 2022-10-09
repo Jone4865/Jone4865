@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Jone4865/Jone4865** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jone's%20Github&fontSize=90)
 <div align="center">dd</div>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Jone4865&show_icons=true&theme=great-gatsby)
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jone4865&layout=compact&theme=great-gatsby)
-#
+![Jone's github stats](https://github-readme-stats.vercel.app/api?username=Jone4865&show_icons=true&count_private=true&bg_color=30,96a5e2b7,e29696b7&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jone4865&layout=compact&bg_color=30,96a5e2b7,e29696b7&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJone4865%2Fhit-counter&count_bg=%23F6E458&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
