@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/python-4314ff?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudio-007acc?style=for-the-badge&logo=visualstudio&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-6236FF?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 </center>
 <br>
