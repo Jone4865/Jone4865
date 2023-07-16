@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/nextdotjs-FFB07F?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-FFECAF?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/sass-green?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/styled_components-blue?style=for-the-badge&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/styled_components-8CC0DE?style=for-the-badge&logo=styledcomponents&logoColor=white">
 </div>
 <div style="display: inline;">
 <img src="https://img.shields.io/badge/antdesign-indigo?style=for-the-badge&logo=antdesign&logoColor=white">
