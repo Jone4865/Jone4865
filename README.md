@@ -15,16 +15,13 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jone's%20Github&fontSize=90)
 
 ## 🔖 Tech Stack
-### Primary Tech
 <center>
 <div style="display: inline;">
 <img src="https://img.shields.io/badge/sass-61DAFB?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/css3-61DAFB?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/apollographql-61DAFB?style=for-the-badge&logo=apollographql&logoColor=white">
 <img src="https://img.shields.io/badge/antdesign-61DAFB?style=for-the-badge&logo=antdesign&logoColor=white">
-
 <img src="https://img.shields.io/badge/nextdotjs-61DAFB?style=for-the-badge&logo=nextdotjs&logoColor=white"><img src="https://img.shields.io/badge/storybook-61DAFB?style=for-the-badge&logo=storybook&logoColor=white">
-
-
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudio-007acc?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-6236FF?style=for-the-badge&logo=typescript&logoColor=white">
@@ -33,8 +30,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/sourcetree-blue?style=for-the-badge&logo=sourcetree&logoColor=white">
 </div>
-
-### Experienced Tech
 <div style="display: inline;">
 <img src="https://img.shields.io/badge/axios-6236FF?style=for-the-badge&logo=axios&logoColor=white">
 <img src="https://img.shields.io/badge/socket.io-gray?style=for-the-badge&logo=socket.io&logoColor=white"/>
@@ -44,8 +39,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/dotenv-3b0707aa?style=for-the-badge&logo=dotenv&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/Json-green?style=for-the-badge&logo=Json&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/python-4314ff?style=for-the-badge&logo=python&logoColor=white">
-
 </div>
 </center>
 <br>
