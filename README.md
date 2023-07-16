@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/styled_components-blue?style=for-the-badge&logo=styledcomponents&logoColor=white">
 </div>
 <div style="display: inline;">
-<img src="https://img.shields.io/badge/antdesign-61DAFB?style=for-the-badge&logo=antdesign&logoColor=white">
-<img src="https://img.shields.io/badge/css3-61DAFB?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/antdesign-indigo?style=for-the-badge&logo=antdesign&logoColor=white">
+<img src="https://img.shields.io/badge/css3-pupple?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 <div style="display: inline;">
