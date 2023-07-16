@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <center>
 <div style="display: inline;">
 <img src="https://img.shields.io/badge/react-red?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/nextdotjs-61DAFB?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-6236FF?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/sass-61DAFB?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
+<img src="https://img.shields.io/badge/nextdotjs-orange?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-yellow?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/sass-green?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/styled_components-blue?style=for-the-badge&logo=styledcomponents&logoColor=white">
 </div>
 <div style="display: inline;">
 <img src="https://img.shields.io/badge/antdesign-61DAFB?style=for-the-badge&logo=antdesign&logoColor=white">
