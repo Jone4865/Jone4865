@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/dotenv-3b0707aa?style=for-the-badge&logo=dotenv&logoColor=CC6699"/>
 </div>
 <div style="display: inline;">
-<img src="https://img.shields.io/badge/storybook-61DAFB?style=for-the-badge&logo=storybook&logoColor=white">
+<img src="https://img.shields.io/badge/storybook-pink?style=for-the-badge&logo=storybook&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudio-007acc?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/sourcetree-blue?style=for-the-badge&logo=sourcetree&logoColor=white">
