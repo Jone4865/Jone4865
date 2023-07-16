@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/apollographql-61DAFB?style=for-the-badge&logo=apollographql&logoColor=white">
 <img src="https://img.shields.io/badge/antdesign-61DAFB?style=for-the-badge&logo=antdesign&logoColor=white">
 
+<img src="https://img.shields.io/badge/nextdotjs-61DAFB?style=for-the-badge&logo=nextdotjs&logoColor=white"><img src="https://img.shields.io/badge/storybook-61DAFB?style=for-the-badge&logo=storybook&logoColor=white">
+
 
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudio-007acc?style=for-the-badge&logo=visualstudio&logoColor=white">
