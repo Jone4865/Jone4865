@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 ### Primary Tech
 <center>
 <div style="display: inline;">
+
+<img src="https://img.shields.io/badge/nextdotjs-61DAFB?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudio-007acc?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/typescript-6236FF?style=for-the-badge&logo=typescript&logoColor=white">
