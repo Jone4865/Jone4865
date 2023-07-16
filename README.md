@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/socket.io-gray?style=for-the-badge&logo=socket.io&logoColor=white"/>
 </div>
 <div style="display: inline;">
+<img src="https://img.shields.io/badge/amazons3-F7DF1E?style=for-the-badge&logo=amazons3&logoColor=black">
 <img src="https://img.shields.io/badge/amazonAWS-F7DF1E?style=for-the-badge&logo=amazonAWS&logoColor=black">
 <img src="https://img.shields.io/badge/ReactHookForm-b23838?style=for-the-badge&logo=ReactHookForm&logoColor=white"/>
 <img src="https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
