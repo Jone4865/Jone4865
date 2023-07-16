@@ -17,22 +17,18 @@ Here are some ideas to get you started:
 ## 🔖 Tech Stack
 <center>
 <div style="display: inline;">
-<img src="https://img.shields.io/badge/sass-61DAFB?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/css3-61DAFB?style=for-the-badge&logo=css3&logoColor=white">
-
-<img src="https://img.shields.io/badge/antdesign-61DAFB?style=for-the-badge&logo=antdesign&logoColor=white">
-</div>
-<div style="display: inline;">
-<img src="https://img.shields.io/badge/nextdotjs-61DAFB?style=for-the-badge&logo=nextdotjs&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-
+<img src="https://img.shields.io/badge/nextdotjs-61DAFB?style=for-the-badge&logo=nextdotjs&logoColor=white">
+<img src="https://img.shields.io/badge/typescript-6236FF?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/sass-61DAFB?style=for-the-badge&logo=sass&logoColor=white">
+<img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
 </div>
 <div style="display: inline;">
-<img src="https://img.shields.io/badge/typescript-6236FF?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/styled_components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white">
-<div style="display: inline;">
-<img src="https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/antdesign-61DAFB?style=for-the-badge&logo=antdesign&logoColor=white">
+<img src="https://img.shields.io/badge/css3-61DAFB?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+<div style="display: inline;">
 </div>
 <div style="display: inline;">
 <img src="https://img.shields.io/badge/apollographql-61DAFB?style=for-the-badge&logo=apollographql&logoColor=white">
