@@ -27,7 +27,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/antdesign-indigo?style=for-the-badge&logo=antdesign&logoColor=white">
 <img src="https://img.shields.io/badge/css3-pupple?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
 <div style="display: inline;">
 </div>
 <div style="display: inline;">
@@ -37,12 +36,18 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/dotenv-3b0707aa?style=for-the-badge&logo=dotenv&logoColor=CC6699"/>
 </div>
 <div style="display: inline;">
-<img src="https://img.shields.io/badge/storybook-pink?style=for-the-badge&logo=storybook&logoColor=white">
 <img src="https://img.shields.io/badge/visualstudio-007acc?style=for-the-badge&logo=visualstudio&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/sourcetree-E2F6CA?style=for-the-badge&logo=sourcetree&logoColor=white">
 </div>
+</center>
+<br>
+
+## 🔖 Experience Tech
+<center>
 <div style="display: inline;">
+<img src="https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+<img src="https://img.shields.io/badge/storybook-pink?style=for-the-badge&logo=storybook&logoColor=white">
 <img src="https://img.shields.io/badge/amazons3-F7DF1E?style=for-the-badge&logo=amazons3&logoColor=black">
 <img src="https://img.shields.io/badge/amazonAWS-FDFFAE?style=for-the-badge&logo=amazonAWS&logoColor=black">
 </div>
