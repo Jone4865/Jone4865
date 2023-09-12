@@ -50,6 +50,8 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/storybook-pink?style=for-the-badge&logo=storybook&logoColor=white">
 <img src="https://img.shields.io/badge/amazons3-F7DF1E?style=for-the-badge&logo=amazons3&logoColor=black">
 <img src="https://img.shields.io/badge/amazonAWS-FDFFAE?style=for-the-badge&logo=amazonAWS&logoColor=black">
+  <img src="https://img.shields.io/badge/flutter?style=for-the-badge&logo=flutter&logoColor=black">
+  <img src="https://img.shields.io/badge/react-native?style=for-the-badge&logo=react-native&logoColor=black">
 </div>
 </center>
 <br>
