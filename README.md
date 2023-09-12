@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/amazons3-F7DF1E?style=for-the-badge&logo=amazons3&logoColor=black">
 <img src="https://img.shields.io/badge/amazonAWS-FDFFAE?style=for-the-badge&logo=amazonAWS&logoColor=black">
 <img src="https://img.shields.io/badge/flutter-007396?style=for-the-badge&logo=flutter&logoColor=white">
-<img src="https://img.shields.io/badge/react_native?style=for-the-badge&logo=react_native&logoColor=black">
+<!-- <img src="https://img.shields.io/badge/react_native?style=for-the-badge&logo=react_native&logoColor=black"> -->
 </div>
 </center>
 <br>
