@@ -40,6 +40,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/> 
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
   <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Adobe XD-FF61F6?style=for-the-badge&logo=Adobe XD&logoColor=white"/>
 </div>
 
 <br>
