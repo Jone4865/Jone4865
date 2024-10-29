@@ -17,44 +17,50 @@ Here are some ideas to get you started:
 ## 🔖 Tech Stack
 <center>
 <div style="display: inline;">
-<img src="https://img.shields.io/badge/react-F31559?style=for-the-badge&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/nextdotjs-FFB07F?style=for-the-badge&logo=nextdotjs&logoColor=white">
-<img src="https://img.shields.io/badge/typescript-FFECAF?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/sass-green?style=for-the-badge&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/styled_components-8CC0DE?style=for-the-badge&logo=styledcomponents&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-FFECAF?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
 </div>
 <div style="display: inline;">
-<img src="https://img.shields.io/badge/antdesign-indigo?style=for-the-badge&logo=antdesign&logoColor=white">
-<img src="https://img.shields.io/badge/css3-pupple?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/html5-red?style=for-the-badge&logo=html5&logoColor=white">
-<div style="display: inline;">
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Ant Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </div>
 <div style="display: inline;">
-<img src="https://img.shields.io/badge/apollographql-61DAFB?style=for-the-badge&logo=apollographql&logoColor=white">
-<img src="https://img.shields.io/badge/socket.io-gray?style=for-the-badge&logo=socket.io&logoColor=white"/>
-<img src="https://img.shields.io/badge/axios-6236FF?style=for-the-badge&logo=axios&logoColor=white">
-<img src="https://img.shields.io/badge/dotenv-3b0707aa?style=for-the-badge&logo=dotenv&logoColor=CC6699"/>
+  <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
 </div>
 <div style="display: inline;">
-<img src="https://img.shields.io/badge/visualstudio-007acc?style=for-the-badge&logo=visualstudio&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/sourcetree-E2F6CA?style=for-the-badge&logo=sourcetree&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/>
 </div>
-</center>
+
 <br>
 
 ## 🔖 Experience Tech
 <center>
 <div style="display: inline;">
-<img src="https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-<img src="https://img.shields.io/badge/storybook-pink?style=for-the-badge&logo=storybook&logoColor=white">
-<img src="https://img.shields.io/badge/amazons3-F7DF1E?style=for-the-badge&logo=amazons3&logoColor=black">
-<img src="https://img.shields.io/badge/amazonAWS-FDFFAE?style=for-the-badge&logo=amazonAWS&logoColor=black">
-<img src="https://img.shields.io/badge/flutter-007396?style=for-the-badge&logo=flutter&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/react_native?style=for-the-badge&logo=react_native&logoColor=black"> -->
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/amazons3-F7DF1E?style=for-the-badge&logo=amazons3&logoColor=black">
+</div>
+<div style="display: inline;">
+  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/flutter-007396?style=for-the-badge&logo=flutter&logoColor=white">
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/> 
+</div>
+<div style="display: inline;">
+  <img src="https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/storybook-pink?style=for-the-badge&logo=storybook&logoColor=white">
 </div>
 </center>
 <br>
+
 
 ![Jone's github stats](https://github-readme-stats.vercel.app/api?username=Jone4865&show_icons=true&count_private=true&bg_color=30,96a5e2b7,e29696b7&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
 
