@@ -58,6 +58,9 @@ https://portfolio-jone4865s-projects.vercel.app
 <br>
 
 <!-- ![Jone's github stats](https://github-readme-stats.vercel.app/api?username=Jone4865&show_icons=true&count_private=true&bg_color=30,96a5e2b7,e29696b7&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJone4865%2Fhit-counter&count_bg=%23F6E458&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jone4865&layout=compact&bg_color=30,96a5e2b7,e29696b7&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
@@ -70,4 +73,3 @@ https://portfolio-jone4865s-projects.vercel.app
 />
 </a>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJone4865%2Fhit-counter&count_bg=%23F6E458&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
