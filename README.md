@@ -66,6 +66,9 @@ Here are some ideas to get you started:
 </center>
 <br>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{Jone4865}?pet-id=1" width="1000" height="120"/>
+</a>
 
 ![Jone's github stats](https://github-readme-stats.vercel.app/api?username=Jone4865&show_icons=true&count_private=true&bg_color=30,96a5e2b7,e29696b7&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
 
