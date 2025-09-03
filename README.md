@@ -47,7 +47,6 @@ https://jone4865-portfolio.vercel.app
   <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> 
   <img src="https://img.shields.io/badge/flutter-007396?style=for-the-badge&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/> 
 </div>
 <div style="display: inline;">
   <img src="https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
