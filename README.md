@@ -1,73 +1,97 @@
-<h1>
-Portfolio Site <br/>
-https://jone4865-portfolio.vercel.app
-</h1>
+<div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Jone's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:111827,50:2563EB,100:7C3AED&height=240&section=header&text=Jone%27s%20GitHub&fontSize=64&fontColor=FFFFFF&animation=fadeIn)
 
-## 🔖 Tech Stack
-<center>
-<div style="display: inline;">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/typescript-FFECAF?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white">
-  <img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-</div>
-<div style="display: inline;">
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Ant Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Material%20UI-e8e8e8?style=for-the-badge&logo=mui&logoColor=black"/> 
-<!--   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> -->
-</div>
-<div style="display: inline;">
-  <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
-</div>
-<div style="display: inline;">
-  <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+# 채종원 · Frontend Developer
+
+사용자 경험과 운영 효율을 함께 개선하는 프론트엔드 개발자입니다.  
+React·Next.js·Vue 3·TypeScript를 중심으로 제품을 설계하고 구현합니다.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://jone4865-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Jone4865-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jone4865)
+
 </div>
 
-<br>
+## Portfolio
 
-## 🔖 Experience Tech
-<center>
-<div style="display: inline;">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=Vercel&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/amazons3-F7DF1E?style=for-the-badge&logo=amazons3&logoColor=black">
-</div>
-<div style="display: inline;">
-  <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/flutter-007396?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=Xcode&logoColor=white"/>
-</div>
-<div style="display: inline;">
-  <img src="https://img.shields.io/badge/redux_toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white">
-  <img src="https://img.shields.io/badge/storybook-pink?style=for-the-badge&logo=storybook&logoColor=white">
-</div>
-</center>
-<br>
+**Live:** [jone4865-portfolio.vercel.app](https://jone4865-portfolio.vercel.app/)  
+**Built with:** React 18 · TypeScript · styled-components · Framer Motion · Three.js · React Router · Vercel Analytics
 
-<!-- ![Jone's github stats](https://github-readme-stats.vercel.app/api?username=Jone4865&show_icons=true&count_private=true&bg_color=30,96a5e2b7,e29696b7&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
+## Core Tech Stack
 
+### Language
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJone4865%2Fhit-counter&count_bg=%23F6E458&title_bg=%23555555&icon=awesomelists.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
--->
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+### Framework
 
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=111827)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue 3](https://img.shields.io/badge/Vue%203-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Data / State
+
+![React Query](https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo%20GraphQL-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Recoil](https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
+
+### Styling / UI
+
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass%20%2F%20SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![Naive UI](https://img.shields.io/badge/Naive%20UI-18A058?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![Toast UI Editor](https://img.shields.io/badge/Toast%20UI%20Editor-2C3E50?style=for-the-badge&logo=markdown&logoColor=white)
+
+## Experience Tech
+
+### Realtime / Cloud
+
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+
+### Mobile
+
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=111827)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+
+### State / Docs
+
+![Redux Toolkit](https://img.shields.io/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+
+### Tools
+
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Sourcetree](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=sourcetree&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+
+### Backend
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+## GitHub Activity
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jone4865&show_icons=true&hide_border=true&theme=transparent)
 
 <a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/Jone4865"
-  width="600"
-  height="300"
-/>
+  <img src="https://render.gitanimals.org/farms/Jone4865" width="600" height="300" alt="GitAnimals farm" />
 </a>
 
+</div>
