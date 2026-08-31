@@ -88,7 +88,7 @@ React·Next.js·Vue 3·TypeScript를 중심으로 제품을 설계하고 구현�
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jone4865&show_icons=true&hide_border=true&theme=transparent)
+![GitHub profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jone4865&theme=github_dark)
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/Jone4865" width="600" height="300" alt="GitAnimals farm" />
