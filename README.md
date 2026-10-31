@@ -14,7 +14,7 @@ React·Next.js·Vue 3·TypeScript를 중심으로 제품을 설계하고 구현�
 
 ## Portfolio
 
-**Live:** [jone4865-portfolio.vercel.app](https://jone4865-portfolio.pages.dev/])  
+**Live:** [jone4865-portfolio.vercel.app](https://jone4865-portfolio.pages.dev/)  
 **Built with:** React 18 · TypeScript · styled-components · Framer Motion · Three.js · React Router · Vercel Analytics
 
 ## Core Tech Stack
